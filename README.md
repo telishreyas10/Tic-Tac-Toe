@@ -49,6 +49,22 @@ Make sure you have the following installed:
 
 ---
 
+## 🛠 Future Features
+
+I’m excited to enhance this application further by adding the following features:
+
+- **Two-Player Online Mode**:
+  - Create a real-time multiplayer experience where two players can connect and play from different devices.
+  - Use **WebSockets** with a backend server to handle game state synchronization.
+
+---
+
 ## 🤝 Contributing
 
 Contributions are welcome!
+
+---
+
+## 🙏 Special Thanks
+
+Special thanks to **[Maximilian Schwarzmüller ](https://github.com/academind)** for the amazing React course, which inspired and guided me to create this Tic Tac Toe web application.
